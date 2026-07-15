@@ -186,7 +186,7 @@ Below are previews of some of the interactive report pages included in the dashb
 
 ### 📈 Academic Performance
 
-![Academic Performance](Dashboard%20Screenshots/Academic%20Performace.png)
+![Academic Performance](Dashboard%20Screenshots/Academic%20Performance.png)
 
 ---
 
